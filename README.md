@@ -1,9 +1,8 @@
 ### Hi there!
 
-I am a neuroscientist 🧠 / aspiring linguist 💻💬 currently working at the University of Pittsburgh.  
-Visit my [personal website](https://manhowong.github.io/) to learn more about my interests+research and connect with me on [LinkedIn](https://www.linkedin.com/in/manhowong)!
+I am a neuroscientist 🧠 with extensive data science experience 💻💬, currently working at the University of Pittsburgh, PA.  
 
-Below is the TL;DR version of my personal website. The word cloud summarizes my experience (education and work) as of October 2022. Because I am in the middle of career transition, you may notice that there are words from different fields 📚 !
+Feel free to explore my [personal website](https://manhowong.github.io/) to discover more about my multidisciplinary interests and research. Connect with me on [LinkedIn](https://www.linkedin.com/in/manhowong) for further engagement. The word cloud on my website provides a summary of my education and work experience as of October 2022, reflecting my broad interest in all things related to neuroscience, cognition and data.
 
 ![wordcloud](wordcloud_nouns_long.svg)
 
