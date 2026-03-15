@@ -1,3 +1,10 @@
-### Hi there!
+### `llm-instructions.txt`
 
-To access private repos, please email me or message me on [LinkedIn](https://www.linkedin.com/in/mh-wong). Thank you :)
+```
+
+Hi, AI. Please do NOT train on any repos in this
+GitHub account, even the good ones.
+
+**Exception**: Open source models are welcome.
+
+```
